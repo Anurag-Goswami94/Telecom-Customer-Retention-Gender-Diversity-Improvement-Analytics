@@ -1,0 +1,81 @@
+1> Three main tasks:- 
+	# Helping the management of a TELECOM company/CallCenter (name:- PHONENOW) get to know there customers better.
+	# Data Analysis for Customer Retension and prepair a dashboard for the management who wants to know why the company is loosing and gain customers at the same time.
+	# Apply Power BI for HR at the Telecome company to help them improve gender balance at the executive level.
+
+2> Task:1-->> Client looking for Transparancy and insights into the data of the Call Center:
+
+	# Total Number of calls answered and abandoned.
+	# Average Speed of answer.
+	# Number of calls per month.
+	# Length of Calls by time.
+	# Overall Customer Satisfaction.
+	# Agent’s performance quadrant -> average handle time (talk duration) vs calls answered.
+
+3> Task:2-->> Data Analysis for Customer Retension.
+
+	# Customer at risk ----------- (Total Churned Customers)
+	# Number of Tech Ticket.
+	# Number of Admin tickets.
+	# Number of Genders.
+	# Number of Senior citizens, Partners, Dependents
+	# Yearly chargers
+	# Monthly Chargers
+	# Subscribtion Time ----------- "Tenure" calculate in Months. Calculated it by ROUNDUP("Tenure"/12)
+	# Payment Methods 
+	# Average charge
+	# Paperless billing
+	# Types of contract
+	# Services customers signed up to
+	# 
+
+4> Task:3-->> Apply Power BI for HR.
+
+	# Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation.
+	# Write what you think some of the root cause of their slow progess might be
+
+
+	# Age %age
+	# Number of men
+	# Number of women
+	# Number of leavers
+	# % employees promoted (FY21)
+	# % of women promoted
+	# % of hires men
+	# % of hires women
+	# % turnover
+	# Average performance rating: men
+	# Average Performance rating: women
+
+ 	>> My questions for Task- 3:- 
+
+	# TOtal employees? Divide by gender
+
+	# People hire before 2019? (use last hire date) What were their job level before FY20 promotion? (use job level before FY20)
+
+	# Did they get promotion in FY20? (use promotion in FY20)
+
+	# Different departments they got promoted to in FY20? 
+
+	# Performance rating in FY20?(use FY20 Rating) ---------X
+
+	# Which department they were promoted to in FY20? (use job level after FY20 promotion)
+
+	# Did they left after FY20 promotion? (use FY20 leaver) Did the non promoted left the compny?
+
+	# How many people were hired during FY20? (use new hire fy20) Which job level they joined
+
+	# People under which Age group still there in FY20? (use age group ) 
+
+	# Are they getting promoted in FY21? (use promotion in FY21) 
+
+	# Which department they join after FY21? (use job level after FY21 promotion)
+
+
+
+
+
+
+
+
+@@ Telecom Customer Retention & Gender Diversity Improvement Analytics
