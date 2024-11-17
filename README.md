@@ -25,6 +25,8 @@ As per the analysis, the customers of PhoneNow look satisfied with the service p
 
 
 
+
+
 Report of Task 2:
 
 A total of 1869 customers quit the services offered by PhoneNow which is around 26.53% of the total customers of the organization. On an average the churned customers were paying $74.44 a month and $1,531.80 a year. An amount of $2.86M were being made from these customers a year. 
@@ -55,6 +57,8 @@ Conclusion:
 	Try to generate some kind of offers for the customers especially for the one who are Month-to-Month subscribers so that they could use your service for a longer period of time. 
 
 	Try to increase the sale of 1 to 2 years contract more so that the people think before quitting the services. 
+
+
 
 
 
