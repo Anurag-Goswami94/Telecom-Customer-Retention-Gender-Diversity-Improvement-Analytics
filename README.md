@@ -13,7 +13,7 @@ A total of 5000 calls were received in the month of January, February and March 
 As per the analysis, you have resolved 72.92% of the cases and 27.08% of the cases were left unresolved. The highest amount of Customer Satisfaction Rating is 4 stars taking about 34.21% of the overall rating.
 
 
-Recommendations: 
+Recommendations of Task-1: 
 
 As per the analysis, the customers of PhoneNow look satisfied with the service provides, but some changes can still be made for better customer satisfaction. The suggestions are –
 
@@ -48,7 +48,7 @@ A total of 1869 customers quit the services offered by PhoneNow which is around 
 
 Furthermore, around 69.4% of the customers opted for Fiber Optic internet services and 24.56% of the customers opted for DSL internet services. Looking at the ‘Contract” section of the churned customers we can see that 88.55% of these customers went for Month-to-Month subscription. As per the analysis, we can also see that most of the churned customers quite the services on the first 3 months. 
 
-Conclusion:
+Recommendations of Task-2:
 
  As we can see that few of the customers are not satisfied with the PhoneNow Service which is why they thought of discontinuing the services. Few solutions which can help in Customer Retention are:
  
@@ -108,13 +108,13 @@ As on FY20, a total of 66 people (32 Male and 34 Female) were hired in different
 
 Furthermore, out of the 453 current employees of the organization only 51 employees will get promotion in FY21 out of which 33 are Male and 18 are Female.
 
-Conclusion: - 
+Recommendations for Task-3: - 
 
 As we can see from the analysis that the hiring of female employees is much lesser comparative to male employees. So, this is the main reason for the gender imbalance in the organization. Few suggestions to solve this issue are: - 
 
-# Rise the hiring of Female employee in the organization by 3%-5%. This will bring in more female talents in the organization and lower the imbalance.
+#Rise the hiring of Female employee in the organization by 3%-5%. This will bring in more female talents in the organization and lower the imbalance.
  
-# Hire or promote females also to the level of Executive so the management toward the female employees are also looked at and the females also will get a chance to be promoted to the higher hierarchy which will automatically build the balance in the job.
+#Hire or promote females also to the level of Executive so the management toward the female employees are also looked at and the females also will get a chance to be promoted to the higher hierarchy which will automatically build the balance in the job.
 
 
 
